@@ -37,3 +37,6 @@ Em seguida, faça as estilizações conforme seu gosto.
 
 ## Modelo de cards
 ![modelo de cards](https://user-images.githubusercontent.com/104853724/222820464-22a5a8e7-4cb6-43fa-bcf0-acd0346502ec.png)
+
+## Página pronta
+![pg pronta](https://user-images.githubusercontent.com/104853724/222820972-b964f08f-6e3e-44ee-857f-b1b3bdb14402.png)
